@@ -1,0 +1,5 @@
+C:\Users\amand\Desktop\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.exe
+C:\Users\amand\Desktop\SC400\TrueMarbleData\bin\Debug\TrueMarbleData.pdb
+C:\Users\amand\Desktop\SC400\TrueMarbleData\obj\x86\Debug\TrueMarbleData.exe
+C:\Users\amand\Desktop\SC400\TrueMarbleData\obj\x86\Debug\TrueMarbleData.pdb
+C:\Users\amand\Desktop\SC400\TrueMarbleData\obj\x86\Debug\TrueMarbleData.csprojResolveAssemblyReference.cache
